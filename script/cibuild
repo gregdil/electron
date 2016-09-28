@@ -70,6 +70,7 @@ def main():
   args = ['--target_arch=' + target_arch]
   if not is_release:
     args += ['--dev']
+  args += ['--verbose']
   run_script('bootstrap.py', args)
 
   run_script('cpplint.py')
