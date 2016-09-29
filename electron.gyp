@@ -1,9 +1,9 @@
 {
   'variables': {
-    'project_name%': 'brave',
-    'product_name%': 'Brave',
-    'company_name%': 'Brave Software',
-    'company_abbr%': 'brave',
+    'project_name%': 'gikix',
+    'product_name%': 'Gikix',
+    'company_name%': 'Gikix Software',
+    'company_abbr%': 'gikix',
     'version%': '1.4.5',
   },
   'includes': [
