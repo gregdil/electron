@@ -215,6 +215,7 @@ def upload_electron(github, release, file_path):
     upload_io_to_github(github, release, filename, f, 'application/zip')
 
   # Upload the checksum file.
+  # @todo we may have to re enable that later on
   #upload_sha256_checksum(release['tag_name'], file_path)
 
   # Upload ARM assets without the v7l suffix for backwards compatibility
