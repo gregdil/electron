@@ -4,7 +4,7 @@
     'product_name%': 'Gikix',
     'company_name%': 'Gikix Software',
     'company_abbr%': 'gikix',
-    'version%': '1.4.5',
+    'version%': '1.4.6',
   },
   'includes': [
     'filenames.gypi',
